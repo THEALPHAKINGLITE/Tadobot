@@ -1,0 +1,8 @@
+{
+  "name": "tadoboy-vpn-premium",
+  "version": "2.0.0",
+  "description": "Tadoboy VPN Premium Hub Project",
+  "scripts": {
+    "start": "php -S localhost:8000"
+  }
+}
