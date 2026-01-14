@@ -1,6 +1,7 @@
 # 🚀 TADOBOY VPN PREMIUM HUB v2.0
 
 ![Version](https://img.shields.io/badge/Version-2.0.0-00d2ff?style=for-the-badge)
+![&](https://i.ibb.co/Jj5NTsCh/tourl-1768380487537.jpg)
 ![Platform](https://img.shields.io/badge/Platform-Vercel-black?style=for-the-badge&logo=vercel)
 ![Status](https://img.shields.io/badge/Status-Online-green?style=for-the-badge)
 
